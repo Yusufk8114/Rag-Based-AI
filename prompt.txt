@@ -1,0 +1,10 @@
+I am teaching How To Grow Your Salary To ₹1 Crore Using AI. Here are video subtitle chunks containing video title, video number, 
+start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"06","number":"Part","start":285.02,"end":287.02,"text":" You know there's something called ATS"},{"title":"06","number":"Part","start":386.94,"end":388.94,"text":" That I get through the ATS system"},{"title":"06","number":"Part","start":326.98,"end":328.98,"text":" Is the battle of ATS"},{"title":"06","number":"Part","start":318.0,"end":320.0,"text":" ATS, any application tracking system does this"},{"title":"01","number":"Part","start":775.0,"end":776.0,"text":" at"}]
+---------------------------------
+"about ats"
+User asked this question related to the video chunks, you have to answer where and how much content is taught in which video 
+(in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question,
+tell him that you can only answer questions related to the video
+
